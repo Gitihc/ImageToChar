@@ -1,0 +1,21 @@
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\bin\Debug\ImageToChar.exe
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\bin\Debug\ImageToChar.pdb
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\bin\Debug\ImageToChar.xml
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.Form1.resources
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.Resources.resources
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.vbproj.GenerateResource.Cache
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.exe
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.xml
+C:\Users\fan\AppData\Local\Temporary Projects\ImageToChar\obj\x86\Debug\ImageToChar.pdb
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.exe
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.xml
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.pdb
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\bin\Debug\ImageToChar.exe
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\bin\Debug\ImageToChar.pdb
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\bin\Debug\ImageToChar.xml
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.Form1.resources
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.Resources.resources
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.vbproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\bin\Debug\Gif.Components.dll
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.vbprojResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\ImageToChar\ImageToChar\obj\x86\Debug\ImageToChar.gif2charImg.resources
